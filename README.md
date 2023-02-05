@@ -1,0 +1,1 @@
+# original-.htaccess-file-for-wordpress
